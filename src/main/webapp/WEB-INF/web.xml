@@ -23,7 +23,7 @@
         <tracking-mode>COOKIE</tracking-mode> <!-- This disables URL rewriting. -->
     </session-config>
 
-    <!-- Default file in folder-->
+    <!-- Default file in public folders -->
     <welcome-file-list>
         <welcome-file>index.xhtml</welcome-file>
     </welcome-file-list>

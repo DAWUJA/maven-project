@@ -1,4 +1,4 @@
-# Project Title
+# Mi Gran Proyecto
 
 ...
 
@@ -11,6 +11,8 @@
 ## Diagrama de Clases
 
  ![Diagrama de clases](./doc/class_diagram.png)
+> Nota: para modificar el diagrama puedes editar el fichero `.puml` y con el botón derecho
+> sobre el diagrama visualizado almacenar la imagen generada y referenciarla dentro de este documento 
 
 ## Diagrama ER
 
