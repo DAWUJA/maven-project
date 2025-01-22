@@ -6,7 +6,7 @@ import java.util.logging.Logger;
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
 
-@WebServlet(name = "helloServlet", value = "/hello-servlet")
+@WebServlet("/hello-servlet")
 public class HelloServlet extends HttpServlet {
     private String message;
 
@@ -28,14 +28,13 @@ public class HelloServlet extends HttpServlet {
                 <h1>Sample Servlet</h1>
                 <h2>%s</h2>
                 <br/>
-                <a href="index.xhtml">Back</a>                        
+                <a href="index.xhtml">Back</a>
             </body>
             </html>
         """.formatted(message);
 
         out.println(htmlContent);
+        log.info("Petición GET recibida desde %s".formatted(request.getRemoteAddr()));
     }
 
-    public void destroy() {
-    }
 }

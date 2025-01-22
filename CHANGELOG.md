@@ -2,7 +2,7 @@
 
 Más información sobre cómo rellenar el fichero en https://keepachangelog.com/es-ES/1.0.0/
 
-## Iteración 1 - 2024-01-30
+## Iteración inicial - 2024-01-30
 
 ### Added
 
@@ -13,7 +13,7 @@ Más información sobre cómo rellenar el fichero en https://keepachangelog.com/
 
 - Añadidos estilos a página de inicio (Manuel García)
 
-## Iteración 2 - 2024-02-15
+## Iteración 1 - 2024-02-15
 
 ### Added
 
@@ -21,7 +21,7 @@ Más información sobre cómo rellenar el fichero en https://keepachangelog.com/
 
 ### Fixed
 
-- Corregido error en estilos de página de inicio ([#01](https://github.com/...)) (María López)
+- Corregido error en estilos de página de inicio (detalles en [#01](https://github.com/...)) (María López)
 
 ### Removed
 

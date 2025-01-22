@@ -1,5 +1,7 @@
 # Mi Gran Proyecto
 
+[Historial de cambios](./CHANGELOG.md)
+
 ...
 
 ## Algunas ideas:
