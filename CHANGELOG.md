@@ -1,6 +1,6 @@
 # Changelog
 
-Más información sobre cómo rellenar el fichero en https://keepachangelog.com/es-ES/1.0.0/
+Más información sobre cómo rellenar el fichero en https://keepachangelog.com/es-ES/1.1.0/
 
 ## Iteración inicial - 2024-01-30
 
